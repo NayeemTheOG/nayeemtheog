@@ -1,16 +1,56 @@
-## Hi there 👋
+# NayeemTheOG
 
-<!--
-**NayeemTheOG/nayeemtheog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Personal website, portfolio, research archive, and digital infrastructure.
 
-Here are some ideas to get you started:
+Built to document my journey through:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Analytical Finance
+- Mathematics
+- Quantitative Research
+- Software Engineering
+- Open Source
+- Professional Development
+
+---
+
+## Stack
+
+- Next.js
+- TypeScript
+- Tailwind CSS
+- Framer Motion
+- Vercel
+- GitHub
+
+---
+
+## Features
+
+- Modern portfolio architecture
+- Quant finance project showcase
+- Research and writing archive
+- Responsive UI
+- Performance-focused frontend
+- Long-term scalable structure
+
+---
+
+## Sections
+
+- Home
+- About
+- Projects
+- Research
+- Writing
+- Timeline
+- Contact
+
+---
+
+## Development
+
+```bash
+git clone https://github.com/NayeemTheOG/NayeemTheOG.git
+cd NayeemTheOG
+npm install
+npm run dev
